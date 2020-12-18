@@ -2,8 +2,6 @@
 
 I'm a Computer Science student at the TU/e, who likes to work on (mostly) PHP projects in my free time.
 
-- 🔭 I’m currently working on Hydro
-
 <!--
 **penningdaan/penningdaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
